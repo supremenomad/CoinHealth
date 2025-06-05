@@ -1,0 +1,7 @@
+rank,name,symbol,coingecko_url,price,market_cap,twitter_handle,twitter_url,twitter_followers,twitter_first_tweet_date,github,github_stars,github_forks,github_last_updated,scraped_at,coingecko_id
+1,Bitcoin BTC,BTC,https://www.coingecko.com/en/coins/bitcoin,0.0,0.0,bitcoin,https://twitter.com/bitcoin,,,https://github.com/bitcoin,,,,2025-06-03 20:54:20,bitcoin
+2,Ethereum ETH,ETH,https://www.coingecko.com/en/coins/ethereum,0.0,0.0,ethereum,https://twitter.com/ethereum,,,https://github.com/ethereum,,,,2025-06-03 20:54:20,ethereum
+3,Tether USDT,USDT,https://www.coingecko.com/en/coins/tether,0.0,0.0,Tether_to,https://twitter.com/Tether_to,,,,,,,2025-06-03 20:54:20,tether
+4,XRP XRP,XRP,https://www.coingecko.com/en/coins/xrp,0.0,0.0,Ripple,https://twitter.com/Ripple,,,https://github.com/ripple,,,,2025-06-03 20:54:20,xrp
+5,BNB BNB,BNB,https://www.coingecko.com/en/coins/bnb,0.0,0.0,binance,https://twitter.com/binance,,,https://github.com/binance-exchange,,,,2025-06-03 20:54:20,bnb
+6,Solana SOL,SOL,https://www.coingecko.com/en/coins/solana,0.0,0.0,solana,https://twitter.com/solana,,,https://github.com/solana-labs,,,,2025-06-03 20:54:20,solana
