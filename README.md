@@ -1,4 +1,4 @@
-# 🚀 Real Crypto Twitter Scraper
+# 🚀 Coin Health
 
 This is a **real, working** scraper that uses Selenium to extract cryptocurrency data from CoinGecko and Twitter follower counts.
 
